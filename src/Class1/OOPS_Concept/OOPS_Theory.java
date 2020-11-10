@@ -1,4 +1,4 @@
-package OOPS_Concept;
+package Class1.OOPS_Concept;
 
 public class OOPS_Theory {
     public static void main(String[] args) {

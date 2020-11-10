@@ -1,4 +1,4 @@
-package OOPS_Concept.Inheritance;
+package Class1.OOPS_Concept.Inheritance;
 
 public class Myself extends MyParent {
 

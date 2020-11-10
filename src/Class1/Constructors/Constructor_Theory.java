@@ -1,4 +1,4 @@
-package Constructors;
+package Class1.Constructors;
 
 public class Constructor_Theory {
     /**
@@ -10,7 +10,7 @@ public class Constructor_Theory {
      *      the Constructor method executes AUTOMATICALLY.
      *
      * Other point:
-     *  1. a class can have multiple Constructors
+     *  1. a class can have multiple Class1.Constructors
      *      Constructor Overloading
      *  2. Constructor can be parameterized
      *  In other words, Constructor can have arguments.

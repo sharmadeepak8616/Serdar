@@ -20,6 +20,13 @@ public class Homework2 {
      * 8am 10am 12pm 2pm
      *
      *
+     * Capture current time 6:38pm
+     * Add 2 hours in current time                  2:38AM
+     * SimpleDateFormat(ha)                         2am
+     * store the string into a list (using add)     [8pm, 10pm, 12am, 2am]
+     *
+     *
+     *
      */
 
 

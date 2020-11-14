@@ -8,7 +8,7 @@ public interface MyInterface {
      * 3. By default, all method in the interface are Abstract method
      *      (Abstract Method -> Method with only signature, no body)
      * 4. We cannot create Object of an Interface,
-     *      BUT we can create variable of Interface type
+     *      BUT we can create variable of Interface type.
      * 5. A class can implement one or more interface.
      *      when a class implements an Interface, means in the class.
      *      we give body to all abstract methods mentioned in Interface.

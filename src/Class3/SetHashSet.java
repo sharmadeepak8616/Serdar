@@ -14,8 +14,11 @@ public class SetHashSet {
          *   It does NOT maintain the order of insertion
          *   It does NOT store duplicate values.
          *
-         * Syntax to create HashSet:
+         * Hashing:
+         * It's a technique to store data in memory to use the memory in most efficient way.
          *
+         *
+         * Syntax to create HashSet:
          * HashSet<datatypeClass> myHashSet = new HashSet();
          * -- OR --
          * Set<datatypeClass> mySet = new HashSet<>();
